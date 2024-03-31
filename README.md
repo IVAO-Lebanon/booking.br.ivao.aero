@@ -6,7 +6,6 @@ The client side of KRONOS, the ultimate tool for RFE, MSE, RFO events in IVAO. B
 
 ## Features
 
-
 - Themes - Dark & Light
 - Multiple Events at the same time
 - Clean and modern UI
